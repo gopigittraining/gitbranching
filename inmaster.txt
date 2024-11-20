@@ -1,1 +1,1 @@
-i am in master
+i am in master. "Now i have added this text from Feature branch"
